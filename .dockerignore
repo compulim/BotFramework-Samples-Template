@@ -1,0 +1,4 @@
+/node_modules
+/packages/bot/node_modules
+/packages/web/build
+/packages/web/node_modules
